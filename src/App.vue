@@ -2,10 +2,10 @@
   <v-app>
     <v-app-bar
       app
-      color="primary"
+      color="#ea256c"
       dark
     >
-    <v-toolbar-title>Most Used Words</v-toolbar-title>
+    <v-toolbar-title>Most Used Words in Squid Game</v-toolbar-title>
     </v-app-bar>
 
     <v-content>
