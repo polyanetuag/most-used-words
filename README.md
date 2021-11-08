@@ -39,5 +39,5 @@ Para usar a aplicação, basta clonar o repositório e rodar:
 Este projeto está sob a licença do MIT.
 
 ---
-<h3 align="center"> Desenvolvido com 💙 por Polyane Tuag </h3>
+Desenvolvido com 💜 por Polyane Tuag
 
