@@ -2,7 +2,7 @@
 <h3 align="center"> Most Used Words</h3>
 
 <p align="center">
-  <img width= '600' src="./public/aplication.gif" padding=20px>
+  <img width= '700' src="./public/aplication.gif" padding=20px>
 </p>
 
 
