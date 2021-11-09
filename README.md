@@ -8,7 +8,7 @@
 
 ## 📚 Sobre
 
-O projeto tem como objetivo quantificar as palavras mais utilizadas de uma determinada legenda.<br/>
+O projeto tem como objetivo quantificar as palavras mais utilizadas de uma determinada legenda.<br/><br>
 Com um layout simples, basta adicionar uma ou mais legendas(em formato .srt), para que possa visualizar as palavras que foram mais usadas e, de certa forma, aprender mais sobre o idioma em questão.
 
 
