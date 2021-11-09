@@ -21,7 +21,7 @@ Com um layout simples, basta adicionar uma ou mais legendas(em formato .srt), pa
 ---
 ## 🪄 Aplicação
 
-Para usar a aplicação, basta clonar o repositório e rodar: 
+Para usar a aplicação, basta clonar o repositório e: 
 
 - Instalar as dependências 
 
