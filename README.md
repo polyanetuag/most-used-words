@@ -40,6 +40,7 @@ Para usar a aplicação, basta:
   ```
     npm run serve
   ```
+- E só abrir no navegador http://localhost:8080/
 
   ---
 ## 🗃 Licença
