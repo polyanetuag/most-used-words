@@ -21,7 +21,14 @@ Com um layout simples, basta adicionar uma ou mais legendas(em formato .srt), pa
 ---
 ## 🪄 Aplicação
 
-Para usar a aplicação, basta clonar o repositório e: 
+Para usar a aplicação, basta:
+
+- Clonar o repositório
+  ```
+    https://github.com/polyanetuag/most-used-words.git
+  ```
+
+- Entrar na pasta most-used-words
 
 - Instalar as dependências 
 
@@ -29,7 +36,7 @@ Para usar a aplicação, basta clonar o repositório e:
     npm install 
   ```
 
-- Startar o projeto
+- E startar o projeto
   ```
     npm run serve
   ```
