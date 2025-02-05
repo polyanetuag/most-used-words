@@ -15,7 +15,7 @@ Com um layout simples, basta adicionar uma ou mais legendas(em formato .srt), pa
 ## 💻 Tecnologias Utilizadas
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- ElectronJS
+- [ElectronJS](https://www.electronjs.org/pt/)
 - VueJs
 
 ---
