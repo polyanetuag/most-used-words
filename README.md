@@ -16,7 +16,7 @@ Com um layout simples, basta adicionar uma ou mais legendas(em formato .srt), pa
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [ElectronJS](https://www.electronjs.org/pt/)
-- VueJs
+- [VueJs](https://vuejs.org/)
 
 ---
 ## 🪄 Aplicação
