@@ -28,10 +28,7 @@ Para usar a aplicação, basta:
     https://github.com/polyanetuag/most-used-words.git
   ```
 
-- Entrar na pasta most-used-words
-
-- Instalar as dependências 
-
+- Entrar na pasta most-used-words e instalar as dependências 
   ```
     npm install 
   ```
@@ -40,7 +37,6 @@ Para usar a aplicação, basta:
   ```
     npm run serve
   ```
-- E só abrir no navegador http://localhost:8080/
 
   ---
 ## 🗃 Licença
